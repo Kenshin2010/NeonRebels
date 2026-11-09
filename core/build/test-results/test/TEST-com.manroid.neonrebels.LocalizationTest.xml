@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.manroid.neonrebels.LocalizationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-09T09:25:45.508Z" hostname="THSOFT" time="0.25">
+  <properties/>
+  <testcase name="everyKeyUsedInCodeExists" classname="com.manroid.neonrebels.LocalizationTest" time="0.16"/>
+  <testcase name="everyLanguageDefinesTheSameKeys" classname="com.manroid.neonrebels.LocalizationTest" time="0.012"/>
+  <testcase name="bakedFontCoversEveryCharacterInEveryLanguage" classname="com.manroid.neonrebels.LocalizationTest" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

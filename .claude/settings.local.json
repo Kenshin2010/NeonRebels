@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs grep -l \"^class\\\\|^open class\")",
+      "Bash(xargs grep -hE \"^\\(open |abstract \\)?class \\\\w+\")"
+    ]
+  }
+}

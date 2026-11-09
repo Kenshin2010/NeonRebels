@@ -1,0 +1,111 @@
+
+world.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+an_stance
+  rotate: false
+  xy: 0, 258
+  size: 254, 153
+  orig: 254, 153
+  offset: 0, 0
+  index: 0
+barrier
+  rotate: false
+  xy: 0, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: 0
+boss_stance
+  rotate: false
+  xy: 493, 0
+  size: 348, 157
+  orig: 348, 157
+  offset: 0, 0
+  index: 0
+door
+  rotate: false
+  xy: 34, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: 0
+drone_fire
+  rotate: false
+  xy: 888, 258
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: 0
+drone_fly
+  rotate: false
+  xy: 796, 258
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: 0
+drone_fly
+  rotate: false
+  xy: 842, 258
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: 1
+hazard
+  rotate: false
+  xy: 770, 258
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: 0
+repair_off
+  rotate: false
+  xy: 696, 258
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: 0
+repair_on
+  rotate: false
+  xy: 622, 258
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: 0
+robot_blade
+  rotate: false
+  xy: 446, 258
+  size: 174, 109
+  orig: 174, 109
+  offset: 0, 0
+  index: 0
+robot_shield
+  rotate: false
+  xy: 264, 0
+  size: 227, 157
+  orig: 227, 157
+  offset: 0, 0
+  index: 0
+tower_off
+  rotate: false
+  xy: 166, 0
+  size: 96, 232
+  orig: 96, 232
+  offset: 0, 0
+  index: 0
+tower_on
+  rotate: false
+  xy: 68, 0
+  size: 96, 232
+  orig: 96, 232
+  offset: 0, 0
+  index: 0
+vy_stance
+  rotate: false
+  xy: 256, 258
+  size: 188, 145
+  orig: 188, 145
+  offset: 0, 0
+  index: 0

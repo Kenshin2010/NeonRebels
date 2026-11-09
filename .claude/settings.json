@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "defaultMode": "auto"
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "~/.claude/scripts/context-bar.sh"
+  },
+  "enabledPlugins": {
+    "figma@claude-plugins-official": true
+  },
+  "autoUpdatesChannel": "latest",
+  "skipWorkflowUsageWarning": true,
+  "skipAutoPermissionPrompt": true,
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "pw-play /usr/share/sounds/freedesktop/stereo/complete.oga 2>/dev/null || paplay /usr/share/sounds/freedesktop/stereo/complete.oga 2>/dev/null || true",
+            "async": true
+          }
+        ]
+      }
+    ]
+  }
+}

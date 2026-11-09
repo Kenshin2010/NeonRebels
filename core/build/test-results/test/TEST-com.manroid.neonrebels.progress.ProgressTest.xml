@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.manroid.neonrebels.progress.ProgressTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-09T09:25:46.084Z" hostname="THSOFT" time="0.043">
+  <properties/>
+  <testcase name="campaignSquadUpgradeRewardAndSaveRules" classname="com.manroid.neonrebels.progress.ProgressTest" time="0.043"/>
+  <system-out><![CDATA[PASS: 111 progress assertions
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

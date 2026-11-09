@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.manroid.neonrebels.SpriteAssetsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-09T09:25:45.765Z" hostname="THSOFT" time="0.151">
+  <properties/>
+  <testcase name="everyActorHasPlacementData" classname="com.manroid.neonrebels.SpriteAssetsTest" time="0.007"/>
+  <testcase name="atlasHasEveryAnimationWithTheExpectedFrameCount" classname="com.manroid.neonrebels.SpriteAssetsTest" time="0.007"/>
+  <testcase name="repeatingTexturesArePowerOfTwo" classname="com.manroid.neonrebels.SpriteAssetsTest" time="0.134"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
